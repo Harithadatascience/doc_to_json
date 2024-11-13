@@ -1,10 +1,9 @@
-from typing import Union
-
-from fastapi import FastAPI
+from fastapi import FastAPI, File, UploadFile
 
 app = FastAPI()
 
 
-@app.get("/")
-def read_root():
-    return {"Hello": "World"}
+@app.post("/")
+async def upload_file(file: UploadFile = File(...)):
+    content_type = file.content_type
+    return {"content_type": content_type}
