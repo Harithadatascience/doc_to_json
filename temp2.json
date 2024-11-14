@@ -1,0 +1,45 @@
+{
+    "Exam_Date": "13/09/2024",
+    "Exam_Time": "12:30 PM - 1:30 PM",
+    "Subject": "Combined Graduate Level Examination Tier I",
+    "Section": [
+        {
+            "Section_name": "General Intelligence and Reasoning",
+            "Total_questions": 25,
+            "Q&A": [
+                {
+                    "Q1":["Select the option that represents the letters  which, when sequentially placed from left to right in the blanks below, will complete the letter series. f h _ h _ g f _ h g _ h _ f f _ g _ h _ f ",
+                    "images/page1_General_Intelligence_and_Reasoning_Q1.png" ],
+                    "Ans": [
+                        {
+                            "Ans1": ["g h f h g f f g ", "images/page1_General_Intelligence_and_Reasoning_Q1_Ans1.png"]
+                        },
+                        {
+                            "Ans2": ["g h f h g h f g ", "images/page1_General_Intelligence_and_Reasoning_Q1_Ans2.png"]
+                        },
+                        {
+                            "Ans3": ["g h f f g h f g ", "images/page1_General_Intelligence_and_Reasoning_Q1_Ans3.png"]
+                        },
+                        {
+                            "Ans4": [" g h f h g h h g", "images/page1_General_Intelligence_and_Reasoning_Q1_Ans4.png"]
+                        }
+                    ],
+                    "Correct_Answer": ["Ans4"]
+                },
+                {
+                    "Q2":""
+                },
+                {
+                    "Q3":""
+                }
+            ]
+        },
+        {
+            "Section_name": " General Awareness",
+            "Total_questions":25,
+            "Q&A":[
+
+            ]
+        }
+    ]
+}
