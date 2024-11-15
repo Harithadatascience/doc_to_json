@@ -8,7 +8,8 @@
             "Total_questions": 25,
             "Q&A": [
                 {
-                    "Q1":["Select the option that represents the letters  which, when sequentially placed from left to right in the blanks below, will complete the letter series. f h _ h _ g f _ h g _ h _ f f _ g _ h _ f ",
+                    "Qno": 1,
+                    "Q":["Select the option that represents the letters  which, when sequentially placed from left to right in the blanks below, will complete the letter series. f h _ h _ g f _ h g _ h _ f f _ g _ h _ f ",
                     "images/page1_General_Intelligence_and_Reasoning_Q1.png" ],
                     "Ans": [
                         {
@@ -28,7 +29,8 @@
                 },
 
                 {
-                    "Q2":["images/page4_General_Intelligence_and_Reasoning_Q2.png"],
+                    "Qno":2,
+                    "Q":["images/page4_General_Intelligence_and_Reasoning_Q2.png"],
                 "Ans":[
                     {
                         "Ans1": ["images/page4_General_Intelligence_and_Reasoning_Q2_Ans1.png"]
@@ -47,7 +49,8 @@
                 },
 
                 {
-                    "Q3":["In a certain code language,‘A + B’ means ‘A is the mother of B’, ‘A – B’ means ‘A is the father of B’, ‘A $ B’ means ‘A is the son of B’, ‘A % B’ means‘A is the sister of B’, ‘A / B’ means ‘A is the wife of B’ and ‘A * B’ means ‘A is the husband of B’.Which of the following means P is the Son's wife of T? i. T / B – K * P + O ii. T + K * P + B % O iii. K * P + B % T + P iv. P + T * K + B % O  "],
+                    "Qno":3,
+                    "Q":["In a certain code language,‘A + B’ means ‘A is the mother of B’, ‘A – B’ means ‘A is the father of B’, ‘A $ B’ means ‘A is the son of B’, ‘A % B’ means‘A is the sister of B’, ‘A / B’ means ‘A is the wife of B’ and ‘A * B’ means ‘A is the husband of B’.Which of the following means P is the Son's wife of T? i. T / B – K * P + O ii. T + K * P + B % O iii. K * P + B % T + P iv. P + T * K + B % O  "],
                   "Ans":[
                        {
                         "Ans1": [" Only i "]
@@ -71,7 +74,8 @@
             "Total_questions":25,
             "Q&A":[
                 {
-                    "Q1":[ " After the fall of the Guptas, different kingdoms emerged in various parts of India. Among them, the Maukharis emerged in which of the following areas? ","images/page4_General Awareness_Q2.png"],
+                    "Qno":1,
+                    "Q":[ " After the fall of the Guptas, different kingdoms emerged in various parts of India. Among them, the Maukharis emerged in which of the following areas? ","images/page4_General Awareness_Q2.png"],
                     "Ans":[
                         {
                             "Ans1":["Thanesar", "images/page8_General_Awareness_Q1_Ans1.png"]
@@ -89,7 +93,8 @@
                     "Correct_Answer":["Ans2"]
                 },
                 {
-                 "Q2":["images/page4_General_Awareness_Q2.png"],
+                 "Qno":2,
+                 "Q":["images/page4_General_Awareness_Q2.png"],
                  "Ans":[
                     {
                         "Ans1":["images/page8_General_Awareness_Q2_Ans1.png"]
@@ -107,7 +112,8 @@
                  "Correct_Answer":["Ans2"] 
                 },
                 {
-                    "Q3":["Presently, which of the following countries is NOT a beneficiary of India's Duty-Free Tariff Preference (DFTP) Scheme?"],
+                    "Qno":3,
+                    "Q":["Presently, which of the following countries is NOT a beneficiary of India's Duty-Free Tariff Preference (DFTP) Scheme?"],
                     "Ans":[
                         {
                             "Ans1": ["Rwanda"]
@@ -131,7 +137,8 @@
             "Total_questions":25,
             "Q&A":[
                 {
-                    "Q1":[" The following table indicates the number of students studying in three subjects in four colleges","images/page12_Quantitative Aptitude_Q1.png","What is the ratio of the total number of students studying in the Physics to that of studying in Mathematics in all four colleges taken together?"],
+                    "Qno":1,
+                    "Q":[" The following table indicates the number of students studying in three subjects in four colleges","images/page12_Quantitative Aptitude_Q1.png","What is the ratio of the total number of students studying in the Physics to that of studying in Mathematics in all four colleges taken together?"],
                     "Ans":[
                         {
                             "Ans1":[" 781 : 585 ","images/page8_Quantitative_Aptitude_Q1_Ans1.png"]
@@ -149,7 +156,8 @@
                     "Correct_Answer":["Ans1"]
                 },
                 {
-                    "Q2":["images/page12_ Quantitative_Aptitude_Q2.png"],
+                    "Qno":2,
+                    "Q":["images/page12_ Quantitative_Aptitude_Q2.png"],
                     "Ans":[
                         {
                             "Ans1":["images/page12_ Quantitative_Aptitude_Q2_Ans1.png"]
@@ -167,7 +175,8 @@
                     "Correct_Answer":["Ans3"]
                 },
                 {
-                    "Q3": ["The given pie-chart shows the percentage distribution of runs scored by a batsman in a test innings. Study the chart and answer the question that follows."],
+                    "Qno":3,
+                    "Q": ["The given pie-chart shows the percentage distribution of runs scored by a batsman in a test innings. Study the chart and answer the question that follows."],
                     "Ans":[
                         {
                             "Ans1":[ 88 ]
@@ -191,7 +200,8 @@
             "Total_questions":25,
             "Q&A":[
                 {
-                    "Q1":[" Parts of the following sentence have been given as options. Select the option that contains an error. I have the hundred reasons to not attend the meeting tomorrow. ","images/page13_English_Comprehension_Q1.png" ],
+                    "Qno":1,
+                    "Q":[" Parts of the following sentence have been given as options. Select the option that contains an error. I have the hundred reasons to not attend the meeting tomorrow. ","images/page13_English_Comprehension_Q1.png" ],
                     "Ans":[
                         {
                             "Ans1": [" I have the hundred reasons ", "images/page13_English_Comprehension_Q1_Ans1.png"]
@@ -209,7 +219,8 @@
                     "Correct_Answer":["Ans2"]
                 },
                 {
-                    "Q2":["images/page13_English_Comprehension_Q2.png"],
+                    "Qno":2,   
+                    "Q":["images/page13_English_Comprehension_Q2.png"],
                     "Ans":[
                         {
                             "Ans1":["images/page13_English_Comprehension_Q2_Ans1.png"]
@@ -227,7 +238,8 @@
                     "Correct_Answer":["Ans1"]
                 },
                 {
-                    "Q3":["Select the most appropriate meaning of the underlined idiom.All his friends admired him because he was a straight shooter.  "],
+                    "Qno":3,
+                    "Q":["Select the most appropriate meaning of the underlined idiom.All his friends admired him because he was a straight shooter.  "],
                     "Ans":[
                         {
                             "Ans1": [" Excellent shooter "]
