@@ -1,0 +1,2054 @@
+{
+  "Exam Date": "13/09/2024",
+  "Exam Time": "12:30 PM - 1:30 PM",
+  "Subject": "Combined Graduate Level Examination Tier I",
+  "Section": [
+    {
+      "Section_name": "General Intelligence and Reasoning",
+      "Total_questions": 6,
+      "Q&A": [
+        {
+          "Qno": 1,
+          "Q": [
+            "Select the option that represents the letters which, when sequentially placed from left to right in the blanks below, will\ncomplete the letter series.\nf h _ h _ g f _ h g _ h _ f f _ g _ h _ f",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q1.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q1.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q1.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q1.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q1.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "g h f h g f f g",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q1_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q1_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q1_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q1_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q1_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "g h f h g h f g",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q1_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q1_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q1_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q1_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q1_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "g h f f g h f g",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q1_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q1_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q1_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q1_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q1_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "g h f h g h h g",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q1_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q1_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q1_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q1_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q1_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 2,
+          "Q": [
+            "Which of the following terms will replace the question mark (?) in the given series?\nRLYV, PJWT, NHUR, ? , JDQN",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q2.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q2.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q2.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q2.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q2.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "LFTP",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q2_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q2_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q2_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q2_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q2_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "LGTP",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q2_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q2_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q2_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q2_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q2_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "LGSP",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q2_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q2_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q2_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q2_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q2_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "LFSP",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q2_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q2_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q2_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q2_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q2_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 3,
+          "Q": [
+            "In a certain code language,\n‘A + B’ means ‘A is the mother of B’,\n‘A – B’ means ‘A is the father of B’,\n‘A $ B’ means ‘A is the son of B’,\n‘A % B’ means ‘A is the sister of B’,\n‘A / B’ means ‘A is the wife of B’ and\n‘A * B’ means ‘A is the husband of B’.",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q3.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q3.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q3.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q3.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q3.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "Only i",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q3_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q3_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q3_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q3_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q3_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "Both i and ii",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q3_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q3_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q3_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q3_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q3_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "iii and iv",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q3_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q3_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q3_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q3_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q3_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "Only ii",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q3_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q3_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q3_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q3_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q3_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 4,
+          "Q": [
+            "Select the triad in which the numbers are related to each other in the same way as the numbers in the following triads.\n16-40-100\n8-20-50\n(NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent\ndigits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1\nand 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q4.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q4.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q4.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q4.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q4.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "12-30-120",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q4_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q4_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q4_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q4_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q4_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "18-50-110",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q4_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q4_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q4_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q4_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q4_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "22-74-185",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q4_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q4_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q4_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q4_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q4_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "24-60-150",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q4_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q4_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q4_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q4_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q4_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 5,
+          "Q": [
+            "Six symbols %, &, ?, +, $ and @ are written on different faces of a dice. Two positions of this dice are shown in the figure\nbelow. Find the symbol on the face opposite to the one having @.",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q5.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q5.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q5.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q5.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q5.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "$",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q5_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q5_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q5_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q5_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q5_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "&",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q5_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q5_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q5_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q5_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q5_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "%",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q5_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q5_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q5_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q5_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q5_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "?",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q5_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q5_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q5_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q5_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q5_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 6,
+          "Q": [
+            "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if\nit appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the\nstatements.\nStatements:\nSome Toys are Plastic.\nSome Plastic are Metal.\nNo Metal is Chemical.\nConclusions:\n(I) Some Chemicals are Plastic.\n(II) No Toy is a Chemical.",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q6.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q6.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q6.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q6.png",
+            "extracted_images_questions\\page_General Intelligence and Reasoning_Q6.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "Both conclusions (I) and (II) follow.",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q6_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q6_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q6_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q6_Ans1.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q6_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "Only conclusion (II) follows.",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q6_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q6_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q6_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q6_Ans2.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q6_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "Neither conclusion (I) nor (II) follows.",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q6_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q6_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q6_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q6_Ans3.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q6_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "Only conclusion (I) follows.",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q6_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q6_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q6_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q6_Ans4.png",
+                "extracted_images_options\\page_General Intelligence and Reasoning_Q6_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        }
+      ]
+    },
+    {
+      "Section_name": "General Awareness",
+      "Total_questions": 11,
+      "Q&A": [
+        {
+          "Qno": 25,
+          "Q": [
+            "16 is related to 30 following a certain logic. Following the same logic, 81 is related to 110. To which of the following is 49\nrelated, following the same logic? (NOTE : Operations should be performed on the whole numbers, without breaking down\nthe numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be\nperformed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+            "extracted_images_questions\\page_General Awareness_Q25.png",
+            "extracted_images_questions\\page_General Awareness_Q25.png",
+            "extracted_images_questions\\page_General Awareness_Q25.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "64",
+                "extracted_images_options\\page_General Awareness_Q25_Ans1.png",
+                "extracted_images_options\\page_General Awareness_Q25_Ans1.png",
+                "extracted_images_options\\page_General Awareness_Q25_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "60",
+                "extracted_images_options\\page_General Awareness_Q25_Ans2.png",
+                "extracted_images_options\\page_General Awareness_Q25_Ans2.png",
+                "extracted_images_options\\page_General Awareness_Q25_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "72",
+                "extracted_images_options\\page_General Awareness_Q25_Ans3.png",
+                "extracted_images_options\\page_General Awareness_Q25_Ans3.png",
+                "extracted_images_options\\page_General Awareness_Q25_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "90",
+                "extracted_images_options\\page_General Awareness_Q25_Ans4.png",
+                "extracted_images_options\\page_General Awareness_Q25_Ans4.png",
+                "extracted_images_options\\page_General Awareness_Q25_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 1,
+          "Q": [
+            "After the fall of the Guptas, different kingdoms emerged in various parts of India. Among them, the Maukharis emerged in\nwhich of the following areas?",
+            "extracted_images_questions\\page_General Awareness_Q1.png",
+            "extracted_images_questions\\page_General Awareness_Q1.png",
+            "extracted_images_questions\\page_General Awareness_Q1.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "Thanesar",
+                "extracted_images_options\\page_General Awareness_Q1_Ans1.png",
+                "extracted_images_options\\page_General Awareness_Q1_Ans1.png",
+                "extracted_images_options\\page_General Awareness_Q1_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "Kunnur",
+                "extracted_images_options\\page_General Awareness_Q1_Ans2.png",
+                "extracted_images_options\\page_General Awareness_Q1_Ans2.png",
+                "extracted_images_options\\page_General Awareness_Q1_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "Valabhi",
+                "extracted_images_options\\page_General Awareness_Q1_Ans3.png",
+                "extracted_images_options\\page_General Awareness_Q1_Ans3.png",
+                "extracted_images_options\\page_General Awareness_Q1_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "Kannauj",
+                "extracted_images_options\\page_General Awareness_Q1_Ans4.png",
+                "extracted_images_options\\page_General Awareness_Q1_Ans4.png",
+                "extracted_images_options\\page_General Awareness_Q1_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 2,
+          "Q": [
+            "Which of the following nations won the ICC World Test Championship, defeating India, in 2023?",
+            "extracted_images_questions\\page_General Awareness_Q2.png",
+            "extracted_images_questions\\page_General Awareness_Q2.png",
+            "extracted_images_questions\\page_General Awareness_Q2.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "New Zealand",
+                "extracted_images_options\\page_General Awareness_Q2_Ans1.png",
+                "extracted_images_options\\page_General Awareness_Q2_Ans1.png",
+                "extracted_images_options\\page_General Awareness_Q2_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "Australia",
+                "extracted_images_options\\page_General Awareness_Q2_Ans2.png",
+                "extracted_images_options\\page_General Awareness_Q2_Ans2.png",
+                "extracted_images_options\\page_General Awareness_Q2_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "South Africa",
+                "extracted_images_options\\page_General Awareness_Q2_Ans3.png",
+                "extracted_images_options\\page_General Awareness_Q2_Ans3.png",
+                "extracted_images_options\\page_General Awareness_Q2_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "England",
+                "extracted_images_options\\page_General Awareness_Q2_Ans4.png",
+                "extracted_images_options\\page_General Awareness_Q2_Ans4.png",
+                "extracted_images_options\\page_General Awareness_Q2_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 3,
+          "Q": [
+            "Presently, which of the following countries is NOT a beneficiary of India's Duty-Free Tariff Preference (DFTP) Scheme?",
+            "extracted_images_questions\\page_General Awareness_Q3.png",
+            "extracted_images_questions\\page_General Awareness_Q3.png",
+            "extracted_images_questions\\page_General Awareness_Q3.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "Rwanda",
+                "extracted_images_options\\page_General Awareness_Q3_Ans1.png",
+                "extracted_images_options\\page_General Awareness_Q3_Ans1.png",
+                "extracted_images_options\\page_General Awareness_Q3_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "Burundi",
+                "extracted_images_options\\page_General Awareness_Q3_Ans2.png",
+                "extracted_images_options\\page_General Awareness_Q3_Ans2.png",
+                "extracted_images_options\\page_General Awareness_Q3_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "Myanmar",
+                "extracted_images_options\\page_General Awareness_Q3_Ans3.png",
+                "extracted_images_options\\page_General Awareness_Q3_Ans3.png",
+                "extracted_images_options\\page_General Awareness_Q3_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "Angola",
+                "extracted_images_options\\page_General Awareness_Q3_Ans4.png",
+                "extracted_images_options\\page_General Awareness_Q3_Ans4.png",
+                "extracted_images_options\\page_General Awareness_Q3_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 4,
+          "Q": [
+            "Which of the following Articles deals with the composition of the Rajya Sabha?",
+            "extracted_images_questions\\page_General Awareness_Q4.png",
+            "extracted_images_questions\\page_General Awareness_Q4.png",
+            "extracted_images_questions\\page_General Awareness_Q4.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "Article 76",
+                "extracted_images_options\\page_General Awareness_Q4_Ans1.png",
+                "extracted_images_options\\page_General Awareness_Q4_Ans1.png",
+                "extracted_images_options\\page_General Awareness_Q4_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "Article 80",
+                "extracted_images_options\\page_General Awareness_Q4_Ans2.png",
+                "extracted_images_options\\page_General Awareness_Q4_Ans2.png",
+                "extracted_images_options\\page_General Awareness_Q4_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "Article 84",
+                "extracted_images_options\\page_General Awareness_Q4_Ans3.png",
+                "extracted_images_options\\page_General Awareness_Q4_Ans3.png",
+                "extracted_images_options\\page_General Awareness_Q4_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "Article 92",
+                "extracted_images_options\\page_General Awareness_Q4_Ans4.png",
+                "extracted_images_options\\page_General Awareness_Q4_Ans4.png",
+                "extracted_images_options\\page_General Awareness_Q4_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 5,
+          "Q": [
+            "The birth anniversary of Mahatma Gandhi is celebrated as the national festival of India. In which of the following years was\nGandhi ji born?",
+            "extracted_images_questions\\page_General Awareness_Q5.png",
+            "extracted_images_questions\\page_General Awareness_Q5.png",
+            "extracted_images_questions\\page_General Awareness_Q5.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "1885",
+                "extracted_images_options\\page_General Awareness_Q5_Ans1.png",
+                "extracted_images_options\\page_General Awareness_Q5_Ans1.png",
+                "extracted_images_options\\page_General Awareness_Q5_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "1869",
+                "extracted_images_options\\page_General Awareness_Q5_Ans2.png",
+                "extracted_images_options\\page_General Awareness_Q5_Ans2.png",
+                "extracted_images_options\\page_General Awareness_Q5_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "1890",
+                "extracted_images_options\\page_General Awareness_Q5_Ans3.png",
+                "extracted_images_options\\page_General Awareness_Q5_Ans3.png",
+                "extracted_images_options\\page_General Awareness_Q5_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "1877",
+                "extracted_images_options\\page_General Awareness_Q5_Ans4.png",
+                "extracted_images_options\\page_General Awareness_Q5_Ans4.png",
+                "extracted_images_options\\page_General Awareness_Q5_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 6,
+          "Q": [
+            "What kind of phyllotaxy was examined in the Guava plant?",
+            "extracted_images_questions\\page_General Awareness_Q6.png",
+            "extracted_images_questions\\page_General Awareness_Q6.png",
+            "extracted_images_questions\\page_General Awareness_Q6.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "Superimposed",
+                "extracted_images_options\\page_General Awareness_Q6_Ans1.png",
+                "extracted_images_options\\page_General Awareness_Q6_Ans1.png",
+                "extracted_images_options\\page_General Awareness_Q6_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "Whorled",
+                "extracted_images_options\\page_General Awareness_Q6_Ans2.png",
+                "extracted_images_options\\page_General Awareness_Q6_Ans2.png",
+                "extracted_images_options\\page_General Awareness_Q6_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "Alternate",
+                "extracted_images_options\\page_General Awareness_Q6_Ans3.png",
+                "extracted_images_options\\page_General Awareness_Q6_Ans3.png",
+                "extracted_images_options\\page_General Awareness_Q6_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "Opposite",
+                "extracted_images_options\\page_General Awareness_Q6_Ans4.png",
+                "extracted_images_options\\page_General Awareness_Q6_Ans4.png",
+                "extracted_images_options\\page_General Awareness_Q6_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 7,
+          "Q": [
+            "The Nandi Award for Best Male Playback Singer was instituted by which state in the year 1977?",
+            "extracted_images_questions\\page_General Awareness_Q7.png",
+            "extracted_images_questions\\page_General Awareness_Q7.png",
+            "extracted_images_questions\\page_General Awareness_Q7.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "Gujarat",
+                "extracted_images_options\\page_General Awareness_Q7_Ans1.png",
+                "extracted_images_options\\page_General Awareness_Q7_Ans1.png",
+                "extracted_images_options\\page_General Awareness_Q7_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "Andhra Pradesh",
+                "extracted_images_options\\page_General Awareness_Q7_Ans2.png",
+                "extracted_images_options\\page_General Awareness_Q7_Ans2.png",
+                "extracted_images_options\\page_General Awareness_Q7_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "Tripura",
+                "extracted_images_options\\page_General Awareness_Q7_Ans3.png",
+                "extracted_images_options\\page_General Awareness_Q7_Ans3.png",
+                "extracted_images_options\\page_General Awareness_Q7_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "Maharashtra",
+                "extracted_images_options\\page_General Awareness_Q7_Ans4.png",
+                "extracted_images_options\\page_General Awareness_Q7_Ans4.png",
+                "extracted_images_options\\page_General Awareness_Q7_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 8,
+          "Q": [
+            "Indian Olympic Association was established in which of the following years?",
+            "extracted_images_questions\\page_General Awareness_Q8.png",
+            "extracted_images_questions\\page_General Awareness_Q8.png",
+            "extracted_images_questions\\page_General Awareness_Q8.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "1927",
+                "extracted_images_options\\page_General Awareness_Q8_Ans1.png",
+                "extracted_images_options\\page_General Awareness_Q8_Ans1.png",
+                "extracted_images_options\\page_General Awareness_Q8_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "1931",
+                "extracted_images_options\\page_General Awareness_Q8_Ans2.png",
+                "extracted_images_options\\page_General Awareness_Q8_Ans2.png",
+                "extracted_images_options\\page_General Awareness_Q8_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "1933",
+                "extracted_images_options\\page_General Awareness_Q8_Ans3.png",
+                "extracted_images_options\\page_General Awareness_Q8_Ans3.png",
+                "extracted_images_options\\page_General Awareness_Q8_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "1929",
+                "extracted_images_options\\page_General Awareness_Q8_Ans4.png",
+                "extracted_images_options\\page_General Awareness_Q8_Ans4.png",
+                "extracted_images_options\\page_General Awareness_Q8_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 9,
+          "Q": [
+            "Which of the following is a public sector industry?",
+            "extracted_images_questions\\page_General Awareness_Q9.png",
+            "extracted_images_questions\\page_General Awareness_Q9.png",
+            "extracted_images_questions\\page_General Awareness_Q9.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "BHEL",
+                "extracted_images_options\\page_General Awareness_Q9_Ans1.png",
+                "extracted_images_options\\page_General Awareness_Q9_Ans1.png",
+                "extracted_images_options\\page_General Awareness_Q9_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "Reliance",
+                "extracted_images_options\\page_General Awareness_Q9_Ans2.png",
+                "extracted_images_options\\page_General Awareness_Q9_Ans2.png",
+                "extracted_images_options\\page_General Awareness_Q9_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "Tata",
+                "extracted_images_options\\page_General Awareness_Q9_Ans3.png",
+                "extracted_images_options\\page_General Awareness_Q9_Ans3.png",
+                "extracted_images_options\\page_General Awareness_Q9_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "Adani",
+                "extracted_images_options\\page_General Awareness_Q9_Ans4.png",
+                "extracted_images_options\\page_General Awareness_Q9_Ans4.png",
+                "extracted_images_options\\page_General Awareness_Q9_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 10,
+          "Q": [
+            "Which of following is NOT a device of parliamentary proceedings?",
+            "extracted_images_questions\\page_General Awareness_Q10.png",
+            "extracted_images_questions\\page_General Awareness_Q10.png",
+            "extracted_images_questions\\page_General Awareness_Q10.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "Half-an-hour discussion",
+                "extracted_images_options\\page_General Awareness_Q10_Ans1.png",
+                "extracted_images_options\\page_General Awareness_Q10_Ans1.png",
+                "extracted_images_options\\page_General Awareness_Q10_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "Zero-hour discussion",
+                "extracted_images_options\\page_General Awareness_Q10_Ans2.png",
+                "extracted_images_options\\page_General Awareness_Q10_Ans2.png",
+                "extracted_images_options\\page_General Awareness_Q10_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "Two-hour (short) discussion",
+                "extracted_images_options\\page_General Awareness_Q10_Ans3.png",
+                "extracted_images_options\\page_General Awareness_Q10_Ans3.png",
+                "extracted_images_options\\page_General Awareness_Q10_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "Full-day discussion",
+                "extracted_images_options\\page_General Awareness_Q10_Ans4.png",
+                "extracted_images_options\\page_General Awareness_Q10_Ans4.png",
+                "extracted_images_options\\page_General Awareness_Q10_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        }
+      ]
+    },
+    {
+      "Section_name": "Quantitative Aptitude",
+      "Total_questions": 6,
+      "Q&A": [
+        {
+          "Qno": 22,
+          "Q": [
+            "Which Article in the fundamental duty applies, when a construction worker takes his 8-year son to the site rather than\nsending him to school?",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q22.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q22.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q22.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q22.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q22.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q22.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q22.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q22.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q22.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "Article 51A (h)",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "Article 51A (k)",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "Article 51A (j)",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "Article 51A (i)",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q22_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 23,
+          "Q": [
+            "Exfoliation is a form of _________.",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q23.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q23.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q23.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q23.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q23.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q23.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q23.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q23.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q23.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "physical weathering",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "chemical weathering",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "mass wasting",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "biochemical weathering",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q23_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 24,
+          "Q": [
+            "Which Bill was passed by the Parliament, in July 2021, to help in the availability of working capital for the micro, small and\nmedium enterprises sector?",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q24.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q24.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q24.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q24.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q24.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q24.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q24.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q24.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q24.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "The Essential Commodities (Amendment) Bill, 2020",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "The Minerals Laws (Amendment) Bill, 2020",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "The Factoring Regulation (Amendment) Bill, 2021",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "The Insolvency and Bankruptcy Code (Amendment) Bill, 2021",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q24_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 25,
+          "Q": [
+            "Identify the structural formula for magnesium hydroxide.",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q25.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q25.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q25.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q25.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q25.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q25.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q25.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q25.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q25.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "MgOH",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "MgO2",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "Mg2H2",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "Mg(OH)2",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q25_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 1,
+          "Q": [
+            "The following table indicates the number of students studying in three subjects in four colleges.",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q1.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q1.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q1.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q1.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q1.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q1.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q1.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q1.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q1.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "781 : 585",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "775 : 601",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "576 : 731",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "776 : 603",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q1_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 2,
+          "Q": [
+            "extracted_images_questions\\page_Quantitative Aptitude_Q2.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q2.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q2.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q2.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q2.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q2.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q2.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q2.png",
+            "extracted_images_questions\\page_Quantitative Aptitude_Q2.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans1.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans2.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans3.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans4.png",
+                "extracted_images_options\\page_Quantitative Aptitude_Q2_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        }
+      ]
+    },
+    {
+      "Section_name": "English Comprehension",
+      "Total_questions": 11,
+      "Q&A": [
+        {
+          "Qno": 23,
+          "Q": [
+            "Ramesh sells rice at ₹36 per kg, which he purchased for ₹30 per kg. Moreover, he gives only 800 g of rice instead of 1 kg\nwhile selling. Find the actual profit percentage of Ramesh.",
+            "extracted_images_questions\\page_English Comprehension_Q23.png",
+            "extracted_images_questions\\page_English Comprehension_Q23.png",
+            "extracted_images_questions\\page_English Comprehension_Q23.png",
+            "extracted_images_questions\\page_English Comprehension_Q23.png",
+            "extracted_images_questions\\page_English Comprehension_Q23.png",
+            "extracted_images_questions\\page_English Comprehension_Q23.png",
+            "extracted_images_questions\\page_English Comprehension_Q23.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q23_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 24,
+          "Q": [
+            "Which digits should come in the place of x and y, respectively, if the number 62684xy is divisible by both 8 and 5?",
+            "extracted_images_questions\\page_English Comprehension_Q24.png",
+            "extracted_images_questions\\page_English Comprehension_Q24.png",
+            "extracted_images_questions\\page_English Comprehension_Q24.png",
+            "extracted_images_questions\\page_English Comprehension_Q24.png",
+            "extracted_images_questions\\page_English Comprehension_Q24.png",
+            "extracted_images_questions\\page_English Comprehension_Q24.png",
+            "extracted_images_questions\\page_English Comprehension_Q24.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "5 and 0",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "4 and 0",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "2 and 0",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "0 and 5",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q24_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 25,
+          "Q": [
+            "For which of the following values of a and b do the given equations, have NO solution?\nx - ay = 2 - a\n(1 - a)x + 6y = a + b",
+            "extracted_images_questions\\page_English Comprehension_Q25.png",
+            "extracted_images_questions\\page_English Comprehension_Q25.png",
+            "extracted_images_questions\\page_English Comprehension_Q25.png",
+            "extracted_images_questions\\page_English Comprehension_Q25.png",
+            "extracted_images_questions\\page_English Comprehension_Q25.png",
+            "extracted_images_questions\\page_English Comprehension_Q25.png",
+            "extracted_images_questions\\page_English Comprehension_Q25.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "a = -3,b ≠ 1",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "a = 3,b ≠-1",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "a = -3,b ≠ -1",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "a = 3,b ≠ 1",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q25_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 1,
+          "Q": [
+            "Parts of the following sentence have been given as options. Select the option that contains an error.\nI have the hundred reasons to not attend the meeting tomorrow.",
+            "extracted_images_questions\\page_English Comprehension_Q1.png",
+            "extracted_images_questions\\page_English Comprehension_Q1.png",
+            "extracted_images_questions\\page_English Comprehension_Q1.png",
+            "extracted_images_questions\\page_English Comprehension_Q1.png",
+            "extracted_images_questions\\page_English Comprehension_Q1.png",
+            "extracted_images_questions\\page_English Comprehension_Q1.png",
+            "extracted_images_questions\\page_English Comprehension_Q1.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "I have the hundred reasons",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "the meeting",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "tomorrow",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "to not attend",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q1_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 2,
+          "Q": [
+            "Select the most appropriate ANTONYM of the word in brackets to fill in the blank.\nSheila ________ (failed) all her classes.",
+            "extracted_images_questions\\page_English Comprehension_Q2.png",
+            "extracted_images_questions\\page_English Comprehension_Q2.png",
+            "extracted_images_questions\\page_English Comprehension_Q2.png",
+            "extracted_images_questions\\page_English Comprehension_Q2.png",
+            "extracted_images_questions\\page_English Comprehension_Q2.png",
+            "extracted_images_questions\\page_English Comprehension_Q2.png",
+            "extracted_images_questions\\page_English Comprehension_Q2.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "passed",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "flunked",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "fizzled",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "flopped",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q2_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 3,
+          "Q": [
+            "Select the most appropriate meaning of the underlined idiom.",
+            "extracted_images_questions\\page_English Comprehension_Q3.png",
+            "extracted_images_questions\\page_English Comprehension_Q3.png",
+            "extracted_images_questions\\page_English Comprehension_Q3.png",
+            "extracted_images_questions\\page_English Comprehension_Q3.png",
+            "extracted_images_questions\\page_English Comprehension_Q3.png",
+            "extracted_images_questions\\page_English Comprehension_Q3.png",
+            "extracted_images_questions\\page_English Comprehension_Q3.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "Excellent shooter",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "Complicated and confusing person",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "Miserly and pessimistic individual",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "A thoroughly upright straightforward person",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q3_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 4,
+          "Q": [
+            "Select the option that can be used as a one-word substitute for the given group of words.\na large, flat area surrounded by seats used for sports or entertainment",
+            "extracted_images_questions\\page_English Comprehension_Q4.png",
+            "extracted_images_questions\\page_English Comprehension_Q4.png",
+            "extracted_images_questions\\page_English Comprehension_Q4.png",
+            "extracted_images_questions\\page_English Comprehension_Q4.png",
+            "extracted_images_questions\\page_English Comprehension_Q4.png",
+            "extracted_images_questions\\page_English Comprehension_Q4.png",
+            "extracted_images_questions\\page_English Comprehension_Q4.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "Senate",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "Arena",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "Department",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "Garden",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q4_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 5,
+          "Q": [
+            "The following sentence has been split into four segments. Identify the segment that contains a grammatical error.\nAfter I retire, I started a second career / as a writer and published several books / which allowed me to share my stories / and\ninsights with a wider audience.",
+            "extracted_images_questions\\page_English Comprehension_Q5.png",
+            "extracted_images_questions\\page_English Comprehension_Q5.png",
+            "extracted_images_questions\\page_English Comprehension_Q5.png",
+            "extracted_images_questions\\page_English Comprehension_Q5.png",
+            "extracted_images_questions\\page_English Comprehension_Q5.png",
+            "extracted_images_questions\\page_English Comprehension_Q5.png",
+            "extracted_images_questions\\page_English Comprehension_Q5.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "and insights with a wider audience",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "After I retire, I started a second career",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "as a writer and published several books",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "which allowed me to share my stories",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q5_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 6,
+          "Q": [
+            "Select the most appropriate synonym of the given word.\nCelebrate",
+            "extracted_images_questions\\page_English Comprehension_Q6.png",
+            "extracted_images_questions\\page_English Comprehension_Q6.png",
+            "extracted_images_questions\\page_English Comprehension_Q6.png",
+            "extracted_images_questions\\page_English Comprehension_Q6.png",
+            "extracted_images_questions\\page_English Comprehension_Q6.png",
+            "extracted_images_questions\\page_English Comprehension_Q6.png",
+            "extracted_images_questions\\page_English Comprehension_Q6.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "Daunt",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "Rejoice",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "Bitch",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "Assure",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q6_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 7,
+          "Q": [
+            "Select the most appropriate homophone to fill in the blank.\nThe ____________ was decorated with candles and chocolates everywhere.",
+            "extracted_images_questions\\page_English Comprehension_Q7.png",
+            "extracted_images_questions\\page_English Comprehension_Q7.png",
+            "extracted_images_questions\\page_English Comprehension_Q7.png",
+            "extracted_images_questions\\page_English Comprehension_Q7.png",
+            "extracted_images_questions\\page_English Comprehension_Q7.png",
+            "extracted_images_questions\\page_English Comprehension_Q7.png",
+            "extracted_images_questions\\page_English Comprehension_Q7.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "flour",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "flower",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "floor",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "flor",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q7_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        },
+        {
+          "Qno": 8,
+          "Q": [
+            "Select the INCORRECTLY spelt word",
+            "extracted_images_questions\\page_English Comprehension_Q8.png",
+            "extracted_images_questions\\page_English Comprehension_Q8.png",
+            "extracted_images_questions\\page_English Comprehension_Q8.png",
+            "extracted_images_questions\\page_English Comprehension_Q8.png",
+            "extracted_images_questions\\page_English Comprehension_Q8.png",
+            "extracted_images_questions\\page_English Comprehension_Q8.png",
+            "extracted_images_questions\\page_English Comprehension_Q8.png"
+          ],
+          "Ans": [
+            {
+              "Ans1": [
+                "Tangiable",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans1.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans1.png"
+              ]
+            },
+            {
+              "Ans2": [
+                "Terracotta",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans2.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans2.png"
+              ]
+            },
+            {
+              "Ans3": [
+                "Tertial",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans3.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans3.png"
+              ]
+            },
+            {
+              "Ans4": [
+                "Terracide",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans4.png",
+                "extracted_images_options\\page_English Comprehension_Q8_Ans4.png"
+              ]
+            }
+          ],
+          "Correct_Answer": [
+            "Ans4"
+          ]
+        }
+      ]
+    }
+  ]
+}
