@@ -10,20 +10,19 @@
                 {
                     "Qno": 1,
                     
-                    "Q":["Select the option that represents the letters  which, when sequentially placed from left to right in the blanks below, will complete the letter series. f h _ h _ g f _ h g _ h _ f f _ g _ h _ f ",
-                    "images/page1_General_Intelligence_and_Reasoning_Q1.png" ],
+                    "Q":["Select the option that represents the letters  which, when sequentially placed from left to right in the blanks below, will\n complete the letter series.\n f h _ h _ g f _ h g _ h _ f f _ g _ h _ f \n" ],
                     "Ans": [
                         {
-                            "Ans1": ["g h f h g f f g ", "images/page1_General_Intelligence_and_Reasoning_Q1_Ans1.png"]
+                            "Ans1": ["g h f h g f f g \n"]
                         },
                         {
-                            "Ans2": ["g h f h g h f g ", "images/page1_General_Intelligence_and_Reasoning_Q1_Ans2.png"]
+                            "Ans2": ["g h f h g h f g \n"]
                         },
                         {
-                            "Ans3": ["g h f f g h f g ", "images/page1_General_Intelligence_and_Reasoning_Q1_Ans3.png"]
+                            "Ans3": ["g h f f g h f g \n"]
                         },
                         {
-                            "Ans4": [" g h f h g h h g", "images/page1_General_Intelligence_and_Reasoning_Q1_Ans4.png"]
+                            "Ans4": ["g h f h g h h g \n"]
                         }
                     ],
                     "Correct_Answer": ["Ans4"]
@@ -31,19 +30,19 @@
 
                 {
                     "Qno":2,
-                    "Q":["images/page4_General_Intelligence_and_Reasoning_Q2.png"],
+                    "Q":[" Which of the following terms will replace the question mark (?) in the given series? \n RLYV, PJWT, NHUR, ? , JDQN \n"],
                 "Ans":[
                     {
-                        "Ans1": ["images/page4_General_Intelligence_and_Reasoning_Q2_Ans1.png"]
+                        "Ans1": ["LFTP \n"]
                     },
                     {
-                        "Ans2": ["images/page4_General_Intelligence_and_Reasoning_Q2_Ans2.png"]
+                        "Ans2": ["LGTP \n"]
                     },
                     {
-                       "Ans3": ["images/page4_General_Intelligence_and_Reasoning_Q2_Ans3.png"] 
+                       "Ans3": ["LGSP \n"] 
                     },
                     {
-                        "Ans4": ["images/page4_General_Intelligence_and_Reasoning_Q2_Ans4.png"] 
+                        "Ans4": ["LFSP \n"] 
                     }
                 ],
                 "Correct_Answer":["Ans2"]
@@ -51,25 +50,124 @@
 
                 {
                     "Qno":3,
-                    "Q":["In a certain code language,‘A + B’ means ‘A is the mother of B’, ‘A – B’ means ‘A is the father of B’, ‘A $ B’ means ‘A is the son of B’, ‘A % B’ means‘A is the sister of B’, ‘A / B’ means ‘A is the wife of B’ and ‘A * B’ means ‘A is the husband of B’.Which of the following means P is the Son's wife of T? i. T / B – K * P + O ii. T + K * P + B % O iii. K * P + B % T + P iv. P + T * K + B % O  "],
+                    "Q":["In a certain code language, \n ‘A + B’ means ‘A is the mother of B’,\n ‘A – B’ means ‘A is the father of B’,\n ‘A $ B’ means ‘A is the son of B’,\n ‘A % B’ means‘A is the sister of B’,\n ‘A / B’ means ‘A is the wife of B’ and \n ‘A * B’ means ‘A is the husband of B’.\n Which of the following means P is the Son's wife of T? \n i. T / B – K * P + O \n ii. T + K * P + B % O \n iii. K * P + B % T + P \n iv. P + T * K + B % O \n"],
                   "Ans":[
                        {
-                        "Ans1": [" Only i "]
+                        "Ans1": ["Only i \n"]
                        },
                        {
-                        "Ans2": [ "Both i and ii "]
+                        "Ans2": [ "Both i and ii \n"]
                        },
                        {
-                        "Ans3": [ "iii and iv" ]
+                        "Ans3": [ "iii and iv \n" ]
                        },
                        {
-                        "Ans4": ["Only ii"]
+                        "Ans4": ["Only ii \n"]
                        }
                     ],
                     "Correct_Answer": ["Ans3"]
-                }
+                },
+                {
+                    "Q.no":4,
+                    "Q": ["Select the triad in which the numbers are related to each other in the same way as the numbers in the following triads.\n 16-40-100 \n 8-20-50 \n (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent \n digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 \n and 3 and then performing mathematical operations on 1 and 3 is not allowed.)\n "],
+                    "Ans":[
+                        {
+                            "Ans1": ["12-30-120\n"]
+                        },
+                        {
+                            "Ans2": ["18-50-110 \n"]
+                        },
+                        {
+                            "Ans3":["22-74-185 \n"]
+                        },
+                        {
+                            "Ans4":["24-60-150 \n"]
+                        }
+                    ],
+                    "Correct_Answer": ["Ans4"]
+                },
+                {
+                    "Q.no":5,
+                    "Q": ["Six symbols %, &, ?, +, $ and @ are written on different faces of a dice. Two positions of this dice are shown in the figure \n below. Find the symbol on the face opposite to the one having @.\n", "extracted_images_questions/page1_ General Intelligence and Reasoning_Q5.png"],
+                    "Ans": [
+                        {
+                            "Ans1": ["$ \n"]
+                        },
+                        {
+                            "Ans2": ["& \n"]
+                        },
+                        {
+                            "Ans3": ["% \n"]
+                        },
+                        {
+                            "Ans4": ["? \n"]
+                        }
+                    ],
+                    "Correct_Answer":["Ans4"]
+                 },
+                 {
+                    "Q.no":6,
+                    "Q":["Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if \n it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the \n statements.\n Statements: \n Some Toys are Plastic.\n Some Plastic are Metal.\n No Metal is Chemical.\n Conclusions:\n (I) Some Chemicals are Plastic. \n (II) No Toy is a Chemical. \n"],
+                    "Ans":[
+                        {
+                            "Ans1": ["Both conclusions (I) and (II) follow\n"]
+                        },
+                        {
+                            "Ans2": ["Only conclusion (II) follows\n"]
+                        },
+                        {
+                            "Ans3":["Neither conclusion (I) nor (II) follows\n"]
+                        },
+                        {
+                            "Ans4":["Only conclusion (I) follows.\n"]
+                        }
+                    ],
+                    "Correct_Answer":["Ans3"]
+                 },
+                 {
+                    "Q.no":7,
+                    "Q":["Select the triad in which the numbers are related to each other in the same way as are the numbers of the given triads.\n (148, 126, 104), (98, 76, 54) \n (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent \n digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 \n and 3 and then performing mathematical operations on 1 and 3 is not allowed) \n"],
+                    "Ans":[
+                        {
+                            "Ans1":["(157, 135, 113) \n"]
+                        },
+                        {
+                            "Ans2":["(149, 137, 115) \n"]
+                        },
+                        {
+                            "Ans3":["(128, 104, 82) \n"]
+                        },
+                        {
+                            "Ans4":["(134, 102, 90) \n"]
+                        }
+                    ]
+                 },
+                 {
+                    "Q.no":8,
+                    "Q":["The sequence of folding a paper and the manner in which the folded paper is cut is shown in the following figures. How \n would this paper look when unfolded?\n", "extracted_images_questions/page2_ General Intelligence and Reasoning_Q8.png"],
+                    "Ans":[
+                        {
+                            "Ans1":["extracted_images_options/page2_General_Intelligence_and_Reasoning_Q8_Ans1.png"]
+                        },
+                        {
+                            "Ans2":["extracted_images_options/page2_General_Intelligence_and_Reasoning_Q8_Ans2.png"]
+                        },
+                        {
+                            "Ans3":["extracted_images_options/page2_General_Intelligence_and_Reasoning_Q8_Ans3.png"]
+                        },
+                        {
+                            "Ans4":["extracted_images_options/page2_General_Intelligence_and_Reasoning_Q8_Ans4.png"]
+                        }
+                    ],
+                    "Correct_Answer":["Ans2"]
+                 },
+                 {
+                    "Q.no":9,
+                    "Q":["The position of how many letters will remain unchanged if each of the letters in the \n word ‘SIGHTED’ is arranged in the English alphabetical order? \n"]
+                 }
+                 
             ]
-        },
+        }, 
         {
             "Section_name": " General Awareness",
             "Total_questions":25,
@@ -262,3 +360,7 @@
 
     ]
 }
+
+    
+
+ 
