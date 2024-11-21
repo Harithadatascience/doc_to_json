@@ -9,7 +9,7 @@
             "Q&A": [
                 {
                     "Qno": 1,
-                    
+                    "Qtype" :1,
                     "Q":["Select the option that represents the letters  which, when sequentially placed from left to right in the blanks below, will\n complete the letter series.\n f h _ h _ g f _ h g _ h _ f f _ g _ h _ f \n" ],
                     "Ans": [
                         {
@@ -30,6 +30,7 @@
 
                 {
                     "Qno":2,
+                    "Qtype" :1,
                     "Q":[" Which of the following terms will replace the question mark (?) in the given series? \n RLYV, PJWT, NHUR, ? , JDQN \n"],
                 "Ans":[
                     {
@@ -50,6 +51,7 @@
 
                 {
                     "Qno":3,
+                    "Qtype" :1,
                     "Q":["In a certain code language, \n ‘A + B’ means ‘A is the mother of B’,\n ‘A – B’ means ‘A is the father of B’,\n ‘A $ B’ means ‘A is the son of B’,\n ‘A % B’ means‘A is the sister of B’,\n ‘A / B’ means ‘A is the wife of B’ and \n ‘A * B’ means ‘A is the husband of B’.\n Which of the following means P is the Son's wife of T? \n i. T / B – K * P + O \n ii. T + K * P + B % O \n iii. K * P + B % T + P \n iv. P + T * K + B % O \n"],
                   "Ans":[
                        {
@@ -69,6 +71,7 @@
                 },
                 {
                     "Q.no":4,
+                    "Qtype" :1,
                     "Q": ["Select the triad in which the numbers are related to each other in the same way as the numbers in the following triads.\n 16-40-100 \n 8-20-50 \n (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent \n digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 \n and 3 and then performing mathematical operations on 1 and 3 is not allowed.)\n "],
                     "Ans":[
                         {
@@ -88,6 +91,7 @@
                 },
                 {
                     "Q.no":5,
+                    "Qtype" :1,
                     "Q": ["Six symbols %, &, ?, +, $ and @ are written on different faces of a dice. Two positions of this dice are shown in the figure \n below. Find the symbol on the face opposite to the one having @.\n", "extracted_images_questions/page1_ General Intelligence and Reasoning_Q5.png"],
                     "Ans": [
                         {
@@ -107,6 +111,7 @@
                  },
                  {
                     "Q.no":6,
+                    "Qtype" :1,
                     "Q":["Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if \n it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the \n statements.\n Statements: \n Some Toys are Plastic.\n Some Plastic are Metal.\n No Metal is Chemical.\n Conclusions:\n (I) Some Chemicals are Plastic. \n (II) No Toy is a Chemical. \n"],
                     "Ans":[
                         {
@@ -126,6 +131,7 @@
                  },
                  {
                     "Q.no":7,
+                    "Qtype" :1,
                     "Q":["Select the triad in which the numbers are related to each other in the same way as are the numbers of the given triads.\n (148, 126, 104), (98, 76, 54) \n (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent \n digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 \n and 3 and then performing mathematical operations on 1 and 3 is not allowed) \n"],
                     "Ans":[
                         {
@@ -145,6 +151,7 @@
                  },
                  {
                     "Q.no":8,
+                    "Qtype" :1,
                     "Q":["The sequence of folding a paper and the manner in which the folded paper is cut is shown in the following figures. How \n would this paper look when unfolded?\n", "extracted_images_questions/page2_ General Intelligence and Reasoning_Q8.png"],
                     "Ans":[
                         {
@@ -164,6 +171,7 @@
                  },
                  {
                     "Q.no":9,
+                    "Qtype" :1,
                     "Q":["The position of how many letters will remain unchanged if each of the letters in the \n word ‘SIGHTED’ is arranged in the English alphabetical order? \n"],
                     "Ans":[
                         {
@@ -183,6 +191,7 @@
                  },
                  {
                     "Q.no":10,
+                    "Qtype" :1,
                     "Q": [" Read the given statements and conclusions carefully. You have to take the given statements to be true if they seem to be at \n variance from commonly known facts. You have to decide which conclusion(s) logically follow(s) from the given statements.\n  Statements:\n All fruit are sour.\n Some sour are vegetables.\n Some vegetables are green.\n Conclusions:\n (I) All vegetables are sour.\n (II) Some sour are green.\n "],
                     "Ans":[
                         {
@@ -202,6 +211,7 @@
                  },
                  {
                     "Q.no":11,
+                    "Qtype" :1,
                     "Q":[" What should come in place of the question mark (?) in the given series? \n 9 17 33 65 129 ? \n"],
                     "Ans":[
                         {
@@ -221,6 +231,7 @@
                  },
                  {
                     "Q.no":12,
+                    "Qtype" :1,
                     "Q":["Select the figure from among the given options that can replace the question mark (?) in the following series.\n", "extracted_images_questions/page3_General_Intelligence_and_Reasoning_Q12.png"],
                     "Ans":[
                         {
@@ -240,6 +251,7 @@
                  },
                  {
                     "Q.no":13,
+                    "Qtype" :1,
                     "Q":[" A paper is folded and cut as shown below. How will it appear when unfolded?\n","extracted_images_questions/page3_General_Intelligence_and_Reasoning_Q13.png \n"],
                     "Ans":[
                         {
@@ -259,6 +271,7 @@
                  },
                  {
                     "Q.no":14,
+                    "Qtype" :1,
                     "Q":[" In a certain code language, ‘RETAINED’ is written as ‘ENIATERD’ and ‘MATURITY’ is written as ‘TIRUTAMY’. How will \n ‘FIREWALL’ be written in that language? \n"],
                     "Ans":[
                         {
@@ -278,6 +291,7 @@
                  },
                  {
                     "Q.no":15,
+                    "Qtype" :1,
                     "Q":[" In a certain code language, 'GLOBAL' is written as '221714272817', 'FOREST' is written as '23141124109', how will 'IMPACT' \n be written in that language? \n"],
                     "Ans":[
                         {
@@ -297,6 +311,7 @@
                  },
                  {
                     "Q.no":16,
+                    "Qtype" :1,
                     "Q":["Three of the following four number-pairs are alike in a certain way and thus form a group. Which number-pair does NOT \n belong to that group?  \n (NOTE: The relation should be found without breaking down the numbers into its constituent digits) \n "],
                     "Ans":[
                         {
@@ -316,6 +331,7 @@
                  },
                  {
                     "Q.no":17,
+                    "Qtype" :1,
                     "Q":["What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘–’ are \n interchanged and ‘×’ and ‘÷’ are interchanged? \n 107 + 2028 × 6 – 427 ÷ 7 = ? \n"],
                     "Ans":[
                         {
@@ -335,6 +351,7 @@
                  },
                  {
                     "Q.no": 18,
+                    "Qtype" :1,
                     "Q":[" Based on the position in the English alphabetical order, three of the following letter-clusters are alike in some manner and \n one is different. Select the odd letter-cluster.\n Note: The odd one out is not based on the number of consonants/vowels or their position in the letter cluster. \n"],
                     "Ans":[
                         {
@@ -354,6 +371,7 @@
                  },
                  {
                     "Q.no":19,
+                    "Qtype" :1,
                     "Q":[" ‘Vacant’ is related to ‘Empty’ in the same way as ‘Crowd’ is related to ‘________’. \n"],
                     "Ans":[
                         {
@@ -373,6 +391,7 @@
                  },
                  {
                     "Q.no":20,
+                    "Qtype" :1,
                     "Q":["Select the option that is related to the fifth term in the same way as the second term is related to the first term and the fourth \n term is related to the third term.\n READER : ERZWRE :: SERIAL : ESIRLA :: JINGLE : ?\n"],
                     "Ans":[
                         {
@@ -392,6 +411,7 @@
                  },
                  {
                     "Q.no":21,
+                    "Qtype" :1,
                     "Q":[" What is the number of triangles in the following figure?\n","extracted_images_questions/page4_General_Intelligence_and_Reasoning_Q21.png"],
                     "Ans":[
                         {
@@ -411,6 +431,7 @@
                  },
                  {
                     "Q.no":22,
+                    "Qtype" :1,
                     "Q":["Select the option figure that will replace the question mark (?) in the figure given below to complete the pattern.\n","extracted_images_questions/page5_General_Intelligence_and_Reasoning_Q22.png"],
                     "Ans":[
                         {
@@ -430,6 +451,7 @@
                  },
                  {
                     "Q.no":23,
+                    "Qtype" :1,
                     "Q":["Select the option that is related to the third figure in the same way as the second figure is related to the first figure. \n Follow the analogy-\n Figure 1 : Figure 2 :: Figure 3 : ?\n","extracted_questions_images/page5_General_Intelligence_and_Reasoning_Q23.png"],
                     "Ans":[
                         {
@@ -449,6 +471,7 @@
                  },
                  {
                     "Q.no":24,
+                    "Qtype" :1,
                     "Q":[" What will come in place of the question mark (?) in the following equation, if ‘×’ is replaced by ‘÷’, ‘÷’ is replaced by ‘+’, ‘+’ is \n replaced by ‘×’ and ‘−’ remains unchanged?\n 42 × 3 ÷ 4 + 9 − 17 = ? \n"],
                     "Ans":[
                         {
@@ -468,6 +491,7 @@
                  },
                  {
                     "Q.no":25,
+                    "Qtype" :1,
                     "Q":[" 16 is related to 30 following a certain logic. Following the same logic, 81 is related to 110. To which of the following is 49 \n related, following the same logic? (NOTE : Operations should be performed on the whole numbers, without breaking down \n the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be \n performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) \n"],
                     "Ans":[
                         {
@@ -494,6 +518,7 @@
             "Q&A":[
                 {
                     "Qno":1,
+                    "Qtype" :1,
                     "Q":[ " After the fall of the Guptas, different kingdoms emerged in \n various parts of India. Among them, the Maukharis emerged in which of the following areas? \n"],
                     "Ans":[
                         {
@@ -513,6 +538,7 @@
                 },
                 {
                  "Qno":2,
+                 "Qtype" :1,
                  "Q":["Which of the following nations won the ICC World Test Championship, defeating India, in 2023? \n"],
                  "Ans":[
                     {
@@ -532,6 +558,7 @@
                 },
                 {
                     "Qno":3,
+                    "Qtype" :1,
                     "Q":["Presently, which of the following countries is NOT a beneficiary of India's Duty-Free Tariff Preference (DFTP) Scheme? \n"],
                     "Ans":[
                         {
@@ -551,6 +578,7 @@
                 },
                 {
                     "Q.no":4,
+                    "Qtype" :1,
                     "Q":[" Which of the following Articles deals with the composition of the Rajya Sabha? \n"],
                     "Ans":[
                         {
@@ -570,6 +598,7 @@
                 },
             {
                 "Q.no":5,
+                "Qtype" :1,
                 "Q":["The birth anniversary of Mahatma Gandhi is celebrated as the national festival of India. In which of the following years was \n Gandhi ji born? \n"],
                 "Ans":[
                     {
@@ -589,6 +618,7 @@
             },
             {
                 "Q.no":6,
+                "Qtype" :1,
                 "Q":["What kind of phyllotaxy was examined in the Guava plant? \n"],
                 "Ans":[
                     {
@@ -608,6 +638,7 @@
             },
             {
                 "Q.no":7,
+                "Qtype" :1,
                 "Q":["The Nandi Award for Best Male Playback Singer was instituted by which state in the year 1977? \n"],
                 "Ans":[
                     {
@@ -627,6 +658,7 @@
             },
             {
                 "Q.no":8,
+                "Qtype" :1,
                 "Q":[" Indian Olympic Association was established in which of the following years? \n"],
                 "Ans":[
                     {
@@ -646,6 +678,7 @@
             },
             {
                 "Q.no":9,
+                "Qtype" :1,
                 "Q":["Which of the following is a public sector industry?\n"],
                 "Ans":[
                     {
@@ -665,6 +698,7 @@
             },
             {
                 "Q.no":10,
+                "Qtype" :1,
                 "Q":[" Which of following is NOT a device of parliamentary proceedings? \n"],
                 "Ans":[
                     {
@@ -684,6 +718,7 @@
             },
             {
                 "Q.no":11,
+                "Qtype" :1,
                 "Q":[ "Which of the following rivers marks the eastern-most boundary of the Himalayas? \n"],
                 "Ans":[
                     {
@@ -703,6 +738,7 @@
             },
             {
                 "Q.no":12,
+                "Qtype" :1,
                 "Q":["What is the empirically fitted relationship between the rate of change of money, wage, and rate of unemployment known as? \n"],
                 "Ans":[
                     {
@@ -722,6 +758,7 @@
             },
             {
                 "Q.no":13,
+                "Qtype" :1,
                 "Q":[" Which of the following is India’s national academy of dance? \n"],
                 "Ans":[
                     {
@@ -741,6 +778,7 @@
            },
            {
             "Q.no":14,
+            "Qtype" :1,
             "Q":[" Padma Bhushan awardee, Ustad Sabri Khan played which of the following musical instruments? \n"],
             "Ans":[
                 {
@@ -760,6 +798,7 @@
            },
            {
             "Q.no":15,
+            "Qtype" :1,
             "Q":["Transition elements are the elements that are found in Groups 3-12 of the modern periodic table, that constitute the _____. \n"],
             "Ans":[
                 {
@@ -779,6 +818,7 @@
            },
            {
             "Q.no":16,
+            "Qtype" :1,
             "Q":["A small object is placed on the focus on the left side of a convex lens. Where will be the image formed? \n "],
             "Ans":[
                 {
@@ -798,6 +838,7 @@
            },
            {
             "Q.no":17,
+            "Qtype" :1,
             "Q":[" One of the greatest of Chola ruler Rajaraja I ruled from 985 AD to ______. \n"],
             "Ans":[
                 {
@@ -817,6 +858,7 @@
            },
            {
             "Q.no":18,
+            "Qtype" :1,
             "Q":["Who asked James Rennel to prepare the map of Hindustan? \n"],
             "Ans":[
                 {
@@ -836,6 +878,7 @@
            },
            {
             "Q.no":19,
+            "Qtype" :1,
             "Q":[" Who among the following is appointed as the new Chairman of Pension Fund Regulatory and Development Authority (PFRDA) in March 2023? \n"],
             "Ans":[
                 {
@@ -855,6 +898,7 @@
            },
            {
             "Q.no":20,
+            "Qtype" :1,
             "Q": ["Indian National Army was formed in which of the following countries? \n"],
             "Ans":[
                 {
@@ -874,6 +918,7 @@
            },
            {
             "Q.no":21,
+            "Qtype" :1,
             "Q":["Match the following neighbouring countries with their official languages correctly \n","extracted_images_questions/page7_ General Awareness_Q21.png"],
             "Ans":[
                 {
@@ -893,6 +938,7 @@
            },
            {
             "Q.no":22,
+            "Qtype" :1,
             "Q":[" Which Article in the fundamental duty applies, when a construction worker takes his 8-year son to the site rather than \n sending him to school? \n"],
             "Ans":[
                 {
@@ -912,6 +958,7 @@
            },
            {
             "Q.no":23,
+            "Qtype" :1,
             "Q":["Exfoliation is a form of _________. \n"],
             "Ans":[
                 {
@@ -931,6 +978,7 @@
            },
            {
             "Q.no":24,
+            "Qtype" :1,
             "Q":[" Which Bill was passed by the Parliament, in July 2021, to help in the availability of working capital for the micro, small and \n medium enterprises sector? \n"],
             "Ans":[
                 {
@@ -950,6 +998,7 @@
            },
            {
             "Q.no":25,
+            "Qtype" :1,
             "Q":["Identify the structural formula for magnesium hydroxide. \n"],
             "Ans":[
                 {
@@ -976,6 +1025,7 @@
             "Q&A":[
                 {
                     "Qno":1,
+                    "Qtype" :1,
                     "Q":[" The following table indicates the number of students studying in three subjects in four colleges.\n","extracted_images_questions/page8_ Quantitative Aptitude_Q1.png","What is the ratio of the total number of students studying in the Physics to that of studying in Mathematics in all four colleges taken together?\n"],
                     "Ans":[
                         {
@@ -995,6 +1045,7 @@
                 },
                 {
                     "Qno":2,
+                    "Qtype" :1,
                     "Q":["extracted_images_questions/page8_ Quantitative Aptitude_Q2.png\n"],
                     "Ans":[
                         {
@@ -1014,6 +1065,7 @@
                 },
                 {
                     "Qno":3,
+                    "Qtype" :1,
                     "Q": ["The given pie-chart shows the percentage distribution of runs scored by a batsman in a test innings. Study the chart and answer the question that follows.\n","extracted_images_questions/page9_ Quantitative Aptitude_Q3.png","If the batsman has scored a total of 440 runs, how many runs did he score by hitting fours?\n"],
                     "Ans":[
                         {
@@ -1033,6 +1085,7 @@
                 },
                 {
                 "Qno":4,
+                "Qtype" :1,
                 "Q":["extracted_images_questions/page9_ Quantitative Aptitude_Q4.png\n"],
                 "Ans":[
                         {
@@ -1052,6 +1105,7 @@
                 },
                 {
                 "Qno":5,
+                "Qtype" :1,
                     "Q":["What is the volume in cubic units of a cylinder with a height equal to the diameter and a radius is 4 units?\n"],
                     "Ans":[
                         {
@@ -1071,6 +1125,7 @@
                 },
                 {
                 "Qno":6,
+                "Qtype" :1,
                 "Q":["A trader owes a merchant ₹9,810 due in 1 year, but the trader wants to settle the account after 6 months. If the rate of simple interest is 9% per annum, how much cash (in ₹) should he pay?\n"],
                 "Ans":[
                         {
@@ -1090,6 +1145,7 @@
                 },
                 {
                     "Qno":7,
+                    "Qtype" :1,
                     "Q":["What is the volume in cubic units of a cylinder with a height equal to the diameter and a radius is 4 units?\n"],
                     "Ans":[
                         {
@@ -1109,6 +1165,7 @@
                 },
                 {
                     "Qno":8,   
+                    "Qtype" :1,
                     "Q":["A circle's centre is connected to its 50 cm long chord by a perpendicular that is 21 cm long. Find the circle's radius.\n"],
                     "Ans":[
                         {
@@ -1128,6 +1185,7 @@
                 },
                 {
                     "Qno":9,   
+                    "Qtype" :1,
                     "Q":["The radius of the circle is 8 cm. The distance of a point lying outside the circle from the centre is 17 cm. The length of the tangent drawn from the outside point to the circle is:\n"],
                     "Ans":[
                         {
@@ -1147,6 +1205,7 @@
                 },
                 {
                     "Qno":10,   
+                    "Qtype" :1,
                     "Q":["extracted_images/page10_ Quantitative_Aptitude_Q10.png\n"],
                     "Ans":[
                         {
@@ -1166,6 +1225,7 @@
                 },
                 {
                     "Qno":11,   
+                    "Qtype" :1,
                     "Q":["extracted_images/page10_ Quantitative_Aptitude_Q11.png\n"],
                     "Ans":[
                         {
@@ -1186,6 +1246,7 @@
                 
                 {
                     "Qno":12,   
+                    "Qtype" :1,
                     "Q":["The given table shows the number of runs scored in IPL matches by four Indian batsmen in a particular year\n","extracted_images/page10_ Quantitative_Aptitude_Q12.png\n","What is the total number of runs scored by all four batsmen?\n"],
                     "Ans":[
                         {
@@ -1205,6 +1266,7 @@
                 },
                 {
                     "Qno":13,   
+                    "Qtype" :1,
                     "Q":["2 varieties of tea powders worth ₹250/kg and ₹300/kg are mixed with a third variety of tea powder in the ratio 1 : 1 : 2. If the mixture is worth ₹350 kg, find the price of the third variety tea powder.\n"],
                     "Ans":[
                         {
@@ -1224,6 +1286,7 @@
                 },
                 {
                     "Qno":14,   
+                    "Qtype" :1,
                     "Q":["extracted_images/page10_ Quantitative_Aptitude_Q14.png\n"],
                     "Ans":[
                         {
@@ -1243,6 +1306,7 @@
                 },
                 {
                     "Qno":15,   
+                    "Qtype" :1,
                     "Q":["A discount series of 10% and 16% on an invoice is the same as a single discount of:\n"],
                     "Ans":[
                         {
@@ -1262,6 +1326,7 @@
                 },
                 {
                     "Qno":16,   
+                    "Qtype" :1,
                     "Q":["ABC is an equilateral triangle. P, Q and R are the mid-points of sides AB, BC and CA, respectively. If the length of the side of the triangle ABC is 11 cm, then the area of is:\n"],
                     "Ans":[
                         {
@@ -1281,6 +1346,7 @@
                 },
                 {
                     "Qno":17,   
+                    "Qtype" :1,
                     "Q":["P and Q start running in opposite directions on a circular track from the same point. If their speeds are 10 m/s and 8 m/s,respectively, then after what time will they meet if the length of the track is 1620 m?\n"],
                     "Ans":[
                         {
@@ -1300,6 +1366,7 @@
                 },
                 {
                     "Qno":18,   
+                    "Qtype" :1,
                     "Q":["ABC is an equilateral triangle. P, Q and R are the mid-points of sides AB, BC and CA, respectively. If the length of the side of the triangle ABC is 11 cm, then the area of is:\n"],
                     "Ans":[
                         {
@@ -1319,6 +1386,7 @@
                 },
                 {
                     "Qno":19,   
+                    "Qtype" :1,
                     "Q":["Two different quantities of the same solution having ingredients A and B are stored in two different containers. In the firstcontainer, there are 252 litre of A and 441 litre of B. In the second container, the total quantity of the solution was 1188 litre.How much of the solution in the second container was made up of ingredient B?\n"],
                     "Ans":[
                         {
@@ -1338,6 +1406,7 @@
                 },
                 {
                     "Qno":20,   
+                    "Qtype" :1,
                     "Q":["P and Q are two fixed points 10 cm apart, and R is a point on PQ such that PR = 6 cm. By what percentage is the length ofQR decreased when the length of PR is increased by 5%?\n"],
                     "Ans":[
                         {
@@ -1357,6 +1426,7 @@
                 },
                 {
                     "Qno":21,   
+                    "Qtype" :1,
                     "Q":["extracted_images/page11_ Quantitative_Aptitude_Q21.png\n"],
                     "Ans":[
                         {
@@ -1376,6 +1446,7 @@
                 },
                 {
                     "Qno":22,   
+                    "Qtype" :1,
                     "Q":[" The given graph represents the data on the ages of various children.Study the given graph and answer the question that follows.\n","extracted_images/page11_ Quantitative_Aptitude_Q22.png\n","What is the difference between the mean and mode of the ages?\n"],
                     "Ans":[
                         {
@@ -1395,6 +1466,7 @@
                 },
                 {
                     "Qno":23,   
+                    "Qtype" :1,
                     "Q":["Ramesh sells rice at ₹36 per kg, which he purchased for ₹30 per kg. Moreover, he gives only 800 g of rice instead of 1 kgwhile selling. Find the actual profit percentage of Ramesh.\n"],
                     "Ans":[
                         {
@@ -1414,6 +1486,7 @@
                 },
                 {
                     "Qno":24,   
+                    "Qtype" :1,
                     "Q":["Which digits should come in the place of x and y, respectively, if the number 62684xy is divisible by both 8 and 5?\n"],
                     "Ans":[
                         {
@@ -1433,6 +1506,7 @@
                 },
                 {
                     "Qno":25,   
+                    "Qtype" :1,
                     "Q":["For which of the following values of a and b do the given equations, have NO solution?x - ay = 2 - a(1 - a)x + 6y = a + b\n"],
                     "Ans":[
                         {
@@ -1459,6 +1533,7 @@
             "Q&A":[
                 {
                     "Qno":1,
+                    "Qtype" :1,
                     "Q":[" Parts of the following sentence have been given as options. Select the option that contains an error. I have the hundred reasons to not attend the meeting tomorrow. ","images/page13_English_Comprehension_Q1.png" ],
                     "Ans":[
                         {
@@ -1477,7 +1552,8 @@
                     "Correct_Answer":["Ans1"]
                 },
                 {
-                    "Qno":2,   
+                    "Qno":2,
+                    "Qtype" :1,  
                     "Q":["Select the most appropriate ANTONYM of the word in brackets to fill in the blank.Sheila ________ (failed) all her classes.\n"],
                     "Ans":[
                         {
@@ -1497,6 +1573,7 @@
                 },
                 {
                     "Qno":3,
+                    "Qtype" :1,
                     "Q":["Select the most appropriate meaning of the underlined idiom.All his friends admired him because he was a straight shooter. \n "],
                     "Ans":[
                         {
@@ -1516,6 +1593,7 @@
                 },
                 {
                     "Qno":4,   
+                    "Qtype" :1,
                     "Q":["Select the option that can be used as a one-word substitute for the given group of words.a large, flat area surrounded by seats used for sports or entertainment\n"],
                     "Ans":[
                         {
@@ -1535,6 +1613,7 @@
                 },
                 {
                     "Qno":5,   
+                    "Qtype" :1,
                     "Q":["The following sentence has been split into four segments. Identify the segment that contains a grammatical error. After I retire, I started a second career / as a writer and published several books / which allowed me to share my stories / and insights with a wider audience.\n"],
                     "Ans":[
                         {
@@ -1554,6 +1633,7 @@
                 },
                 {
                     "Qno":6,   
+                    "Qtype" :1,
                     "Q":[" Select the most appropriate synonym of the given word.Celebrate\n"],
                     "Ans":[
                         {
@@ -1573,6 +1653,7 @@
                 },
                 {
                     "Qno":7,   
+                    "Qtype" :1,
                     "Q":[" Select the most appropriate homophone to fill in the blank.The ____________ was decorated with candles and chocolates everywhere.\n"],
                     "Ans":[
                         {
@@ -1591,7 +1672,8 @@
                     "Correct_Answer":["Ans3"]
                 },
                 {
-                    "Qno":8,   
+                    "Qno":8,  
+                    "Qtype" :1, 
                     "Q":[" Select the INCORRECTLY spelt word\n"],
                     "Ans":[
                         {
@@ -1610,7 +1692,8 @@
                     "Correct_Answer":["Ans1"]
                 },
                 {
-                    "Qno":9,   
+                    "Qno":9,
+                    "Qtype" :1,   
                     "Q":[" Select the INCORRECTLY spelt word\n"],
                     "Ans":[
                         {
@@ -1630,6 +1713,7 @@
                 },
                 {
                     "Qno":10,   
+                    "Qtype" :1,
                     "Q":["\n"],
                     "Ans":[
                         {
@@ -1648,7 +1732,8 @@
                     "Correct_Answer":["Ans3"]
                 },
                 {
-                    "Qno":11,   
+                    "Qno":11, 
+                    "Qtype" :1,  
                     "Q":[" Select the option that can be used as a one-word substitute for the given group of words.A period of ten years\n"],
                     "Ans":[
                         {
@@ -1668,6 +1753,7 @@
                 },
                 {
                     "Qno":12,   
+                    "Qtype" :1,
                     "Q":["Select the most appropriate meaning of the underlined idiom.My uncle lives in New York, so I only see him once in a blue moon. \n"],
                     "Ans":[
                         {
@@ -1687,6 +1773,7 @@
                 },
                 {
                     "Qno":13,   
+                    "Qtype" :1,
                     "Q":[" Select the option that can be used as a one-word substitute for the given group of words.One who eats a lot\n"],
                     "Ans":[
                         {
@@ -1706,6 +1793,7 @@
                 },
                 {
                     "Qno":14,   
+                    "Qtype" :1,
                     "Q":["Select the most appropriate ANTONYM of the underlined word.I was happy to know that Sheila passed her final exams. \n"],
                     "Ans":[
                         {
@@ -1725,6 +1813,7 @@
                 },
                 {
                     "Qno":15,   
+                    "Qtype" :1,
                     "Q":["Select the most appropriate synonym for the underlined word in the given sentence.One of Ram’s leisure activities is tennis.\n"],
                     "Ans":[
                         {
@@ -1744,6 +1833,7 @@
                 },
                 {
                     "Qno":16,   
+                    "Qtype" :1,
                     "Q":["Select the most appropriate option to substitute the underlined word segment in the given sentence.The wedding was put on until January. \n"],
                     "Ans":[
                         {
@@ -1762,7 +1852,8 @@
                     "Correct_Answer":["Ans2"]
                 },
                 {
-                    "Qno":17,   
+                    "Qno":17, 
+                    "Qtype" :1,  
                     "Q":[" Select the option that expresses the given sentence in passive voice.The children have made the box.\n"],
                     "Ans":[
                         {
@@ -1781,7 +1872,8 @@
                     "Correct_Answer":["Ans4"]
                 },
                 {
-                    "Qno":18,   
+                    "Qno":18,  
+                    "Qtype" :1, 
                     "Q":["Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.\n"],
                     "Ans":[
                         {
@@ -1800,7 +1892,8 @@
                     "Correct_Answer":["Ans2"]
                 },
                 {
-                    "Qno":19,   
+                    "Qno":19,  
+                    "Qtype" :1, 
                     "Q":["Select the option that expresses the given sentence in passive voice.They are organising a concert for charity.\n"],
                     "Ans":[
                         {
@@ -1820,6 +1913,7 @@
                 },
                 {
                     "Qno":20,   
+                    "Qtype" :1,
                     "Q":["Given below are four jumbled sentences. Select the option that gives their correct logical sequence. \n"],
                     "Ans":[
                         {
@@ -1838,8 +1932,10 @@
                     "Correct_Answer":["Ans2"]
                 },
                 {
-                    "Qno":21,   
-                    "Q":[" Comprehension:In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill ineach blank.Earthquake is the (1)_________ breaking and displacement of substantial portions of the earth's outer rocky crust. During anearthquake, rock disturbances can cause rivers to change their flow. Landslides (2)__________ by earthquakes can cause significant destruction and loss of life. Tsunamis are a (3)_________ of damaging waves caused by large earthquakes that occur under the ocean. Earthquakes rarely directly kill anyone. Many (4)__________ and injuries are caused by falling debris and the fall of structuresThe (5)_________ of an earthquake relies on how much and how far rock cracks and shifts.Select the most appropriate option to fill in blank number 1.\n"],
+                    "Qno":21, 
+                    "Qtype" :2,
+                    "comprehension":"In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Earthquake is the (1)_________ breaking and displacement of substantial portions of the earth's outer rocky crust. During an earthquake, rock disturbances can cause rivers to change their flow. Landslides (2)__________ by earthquakes can cause significant destruction and loss of life. Tsunamis are a (3)_________ of damaging waves caused by large earthquakes that occur under the ocean. Earthquakes rarely directly kill anyone. Many (4)__________ and injuries are caused by falling debris and the fall of structures. The (5)_________ of an earthquake relies on how much and how far rock cracks and shifts. ",
+                    "Q":["Select the most appropriate option to fill in blank number 1.\n"],
                     "Ans":[
                         {
                             "Ans1":["innovative\n"]
@@ -1858,7 +1954,9 @@
                 },
                 {
                     "Qno":22,   
-                    "Q":[" Comprehension:In the folloing passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill ineach blank.Earthquake is the (1)_________ breaking and displacement of substantial portions of the earth's outer rocky crust. During an earthquake, rock disturbances can cause rivers to change their flow. Landslides (2)__________ by earthquakes can cause significantdestruction and loss of life. Tsunamis are a (3)_________ of damaging waves caused by large earthquakes that occur under theocean. Earthquakes rarely directly kill anyone. Many (4)__________ and injuries are caused by falling debris and the fall of structures.The (5)_________ of an earthquake relies on how much and how far rock cracks and shifts.Select the most appropriate option to fill in blank number 2.\n"],
+                    "Qtype" :2,
+                    "comprehension":"In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Earthquake is the (1)_________ breaking and displacement of substantial portions of the earth's outer rocky crust. During an earthquake, rock disturbances can cause rivers to change their flow. Landslides (2)__________ by earthquakes can cause significant destruction and loss of life. Tsunamis are a (3)_________ of damaging waves caused by large earthquakes that occur under the ocean. Earthquakes rarely directly kill anyone. Many (4)__________ and injuries are caused by falling debris and the fall of structures. The (5)_________ of an earthquake relies on how much and how far rock cracks and shifts. ",
+                    "Q":["Select the most appropriate option to fill in blank number 1.\n"],
                     "Ans":[
                         {
                             "Ans1":["triggered\n"]
@@ -1877,7 +1975,9 @@
                 },
                 {
                     "Qno":23,   
-                    "Q":[" Comprehension:In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill ineach blank.Earthquake is the (1)_________ breaking and displacement of substantial portions of the earth's outer rocky crust. During anearthquake, rock disturbances can cause rivers to change their flow. Landslides (2)__________ by earthquakes can cause significantdestruction and loss of life. Tsunamis are a (3)_________ of damaging waves caused by large earthquakes that occur under theocean. Earthquakes rarely directly kill anyone. Many (4)__________ and injuries are caused by falling debris and the fall of structures.The (5)_________ of an earthquake relies on how much and how far rock cracks and shifts.Select the most appropriate option to fill in blank number 3.\n"],
+                    "Qtype" :2,
+                    "comprehension":"In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Earthquake is the (1)_________ breaking and displacement of substantial portions of the earth's outer rocky crust. During an earthquake, rock disturbances can cause rivers to change their flow. Landslides (2)__________ by earthquakes can cause significant destruction and loss of life. Tsunamis are a (3)_________ of damaging waves caused by large earthquakes that occur under the ocean. Earthquakes rarely directly kill anyone. Many (4)__________ and injuries are caused by falling debris and the fall of structures. The (5)_________ of an earthquake relies on how much and how far rock cracks and shifts. ",
+                    "Q":["Select the most appropriate option to fill in blank number 1.\n"],
                     "Ans":[
                         {
                             "Ans1":["interruption\n"]
@@ -1896,7 +1996,9 @@
                 },
                 {
                     "Qno":24,   
-                    "Q":["Comprehension:In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill ineach blank.Earthquake is the (1)_________ breaking and displacement of substantial portions of the earth's outer rocky crust. During anearthquake, rock disturbances can cause rivers to change their flow. Landslides (2)__________ by earthquakes can cause significantdestruction and loss of life. Tsunamis are a (3)_________ of damaging waves caused by large earthquakes that occur under theocean. Earthquakes rarely directly kill anyone. Many (4)__________ and injuries are caused by falling debris and the fall of structures.The (5)_________ of an earthquake relies on how much and how far rock cracks and shifts. Select the most appropriate option to fill in blank number 4.\n"],
+                    "Qtype" :2,
+                    "comprehension":"In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Earthquake is the (1)_________ breaking and displacement of substantial portions of the earth's outer rocky crust. During an earthquake, rock disturbances can cause rivers to change their flow. Landslides (2)__________ by earthquakes can cause significant destruction and loss of life. Tsunamis are a (3)_________ of damaging waves caused by large earthquakes that occur under the ocean. Earthquakes rarely directly kill anyone. Many (4)__________ and injuries are caused by falling debris and the fall of structures. The (5)_________ of an earthquake relies on how much and how far rock cracks and shifts. ",
+                    "Q":["Select the most appropriate option to fill in blank number 1.\n"],
                     "Ans":[
                         {
                             "Ans1":["survival\n"]
@@ -1915,7 +2017,9 @@
                 },
                 {
                     "Qno":25,   
-                    "Q":[" Comprehension:In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill ineach blank.Earthquake is the (1)_________ breaking and displacement of substantial portions of the earth's outer rocky crust. During anearthquake, rock disturbances can cause rivers to change their flow. Landslides (2)__________ by earthquakes can cause significantdestruction and loss of life. Tsunamis are a (3)_________ of damaging waves caused by large earthquakes that occur under theocean. Earthquakes rarely directly kill anyone. Many (4)__________ and injuries are caused by falling debris and the fall of structures.The (5)_________ of an earthquake relies on how much and how far rock cracks and shifts.Select the most appropriate option to fill in blank number 5. \n"],
+                    "Qtype" :2,
+                    "comprehension":"In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Earthquake is the (1)_________ breaking and displacement of substantial portions of the earth's outer rocky crust. During an earthquake, rock disturbances can cause rivers to change their flow. Landslides (2)__________ by earthquakes can cause significant destruction and loss of life. Tsunamis are a (3)_________ of damaging waves caused by large earthquakes that occur under the ocean. Earthquakes rarely directly kill anyone. Many (4)__________ and injuries are caused by falling debris and the fall of structures. The (5)_________ of an earthquake relies on how much and how far rock cracks and shifts. ",
+                    "Q":["Select the most appropriate option to fill in blank number 1.\n"],
                     "Ans":[
                         {
                             "Ans1":["depth\n"]
