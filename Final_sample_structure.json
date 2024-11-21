@@ -70,7 +70,7 @@
                     "Correct_Answer": ["Ans3"]
                 },
                 {
-                    "Q.no":4,
+                    "Qno":4,
                     "Qtype" :1,
                     "Q": ["Select the triad in which the numbers are related to each other in the same way as the numbers in the following triads.\n 16-40-100 \n 8-20-50 \n (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent \n digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 \n and 3 and then performing mathematical operations on 1 and 3 is not allowed.)\n "],
                     "Ans":[
@@ -90,7 +90,7 @@
                     "Correct_Answer": ["Ans4"]
                 },
                 {
-                    "Q.no":5,
+                    "Qno":5,
                     "Qtype" :1,
                     "Q": ["Six symbols %, &, ?, +, $ and @ are written on different faces of a dice. Two positions of this dice are shown in the figure \n below. Find the symbol on the face opposite to the one having @.\n", "extracted_images_questions/page1_ General Intelligence and Reasoning_Q5.png"],
                     "Ans": [
@@ -110,7 +110,7 @@
                     "Correct_Answer":["Ans4"]
                  },
                  {
-                    "Q.no":6,
+                    "Qno":6,
                     "Qtype" :1,
                     "Q":["Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if \n it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the \n statements.\n Statements: \n Some Toys are Plastic.\n Some Plastic are Metal.\n No Metal is Chemical.\n Conclusions:\n (I) Some Chemicals are Plastic. \n (II) No Toy is a Chemical. \n"],
                     "Ans":[
@@ -130,7 +130,7 @@
                     "Correct_Answer":["Ans3"]
                  },
                  {
-                    "Q.no":7,
+                    "Qno":7,
                     "Qtype" :1,
                     "Q":["Select the triad in which the numbers are related to each other in the same way as are the numbers of the given triads.\n (148, 126, 104), (98, 76, 54) \n (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent \n digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 \n and 3 and then performing mathematical operations on 1 and 3 is not allowed) \n"],
                     "Ans":[
@@ -150,7 +150,7 @@
                     "Correct_Answer":["Ans1"]
                  },
                  {
-                    "Q.no":8,
+                    "Qno":8,
                     "Qtype" :1,
                     "Q":["The sequence of folding a paper and the manner in which the folded paper is cut is shown in the following figures. How \n would this paper look when unfolded?\n", "extracted_images_questions/page2_ General Intelligence and Reasoning_Q8.png"],
                     "Ans":[
@@ -170,7 +170,7 @@
                     "Correct_Answer":["Ans2"]
                  },
                  {
-                    "Q.no":9,
+                    "Qno":9,
                     "Qtype" :1,
                     "Q":["The position of how many letters will remain unchanged if each of the letters in the \n word ‘SIGHTED’ is arranged in the English alphabetical order? \n"],
                     "Ans":[
@@ -190,7 +190,7 @@
                     "Correct_Answer":["Ans4"]
                  },
                  {
-                    "Q.no":10,
+                    "Qno":10,
                     "Qtype" :1,
                     "Q": [" Read the given statements and conclusions carefully. You have to take the given statements to be true if they seem to be at \n variance from commonly known facts. You have to decide which conclusion(s) logically follow(s) from the given statements.\n  Statements:\n All fruit are sour.\n Some sour are vegetables.\n Some vegetables are green.\n Conclusions:\n (I) All vegetables are sour.\n (II) Some sour are green.\n "],
                     "Ans":[
@@ -210,7 +210,7 @@
                     "Correct_Answer":["Ans2"]
                  },
                  {
-                    "Q.no":11,
+                    "Qno":11,
                     "Qtype" :1,
                     "Q":[" What should come in place of the question mark (?) in the given series? \n 9 17 33 65 129 ? \n"],
                     "Ans":[
@@ -230,7 +230,7 @@
                     "Correct_Answer":["Ans3"]
                  },
                  {
-                    "Q.no":12,
+                    "Qno":12,
                     "Qtype" :1,
                     "Q":["Select the figure from among the given options that can replace the question mark (?) in the following series.\n", "extracted_images_questions/page3_General_Intelligence_and_Reasoning_Q12.png"],
                     "Ans":[
@@ -250,7 +250,7 @@
                     "Correct_Answer":["Ans2"]
                  },
                  {
-                    "Q.no":13,
+                    "Qno":13,
                     "Qtype" :1,
                     "Q":[" A paper is folded and cut as shown below. How will it appear when unfolded?\n","extracted_images_questions/page3_General_Intelligence_and_Reasoning_Q13.png \n"],
                     "Ans":[
@@ -270,7 +270,7 @@
                     "Correct_Answer":["Ans1"]
                  },
                  {
-                    "Q.no":14,
+                    "Qno":14,
                     "Qtype" :1,
                     "Q":[" In a certain code language, ‘RETAINED’ is written as ‘ENIATERD’ and ‘MATURITY’ is written as ‘TIRUTAMY’. How will \n ‘FIREWALL’ be written in that language? \n"],
                     "Ans":[
@@ -290,7 +290,7 @@
                     "Correct_Answer":["Ans2"]
                  },
                  {
-                    "Q.no":15,
+                    "Qno":15,
                     "Qtype" :1,
                     "Q":[" In a certain code language, 'GLOBAL' is written as '221714272817', 'FOREST' is written as '23141124109', how will 'IMPACT' \n be written in that language? \n"],
                     "Ans":[
@@ -310,7 +310,7 @@
                     "Correct_Answer":["Ans2"]
                  },
                  {
-                    "Q.no":16,
+                    "Qno":16,
                     "Qtype" :1,
                     "Q":["Three of the following four number-pairs are alike in a certain way and thus form a group. Which number-pair does NOT \n belong to that group?  \n (NOTE: The relation should be found without breaking down the numbers into its constituent digits) \n "],
                     "Ans":[
@@ -330,7 +330,7 @@
                     "Correct_Answer":["Ans2"]
                  },
                  {
-                    "Q.no":17,
+                    "Qno":17,
                     "Qtype" :1,
                     "Q":["What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘–’ are \n interchanged and ‘×’ and ‘÷’ are interchanged? \n 107 + 2028 × 6 – 427 ÷ 7 = ? \n"],
                     "Ans":[
@@ -350,7 +350,7 @@
                     "Correct_Answer":["Ans1"]
                  },
                  {
-                    "Q.no": 18,
+                    "Qno": 18,
                     "Qtype" :1,
                     "Q":[" Based on the position in the English alphabetical order, three of the following letter-clusters are alike in some manner and \n one is different. Select the odd letter-cluster.\n Note: The odd one out is not based on the number of consonants/vowels or their position in the letter cluster. \n"],
                     "Ans":[
@@ -370,7 +370,7 @@
                     "Correct_Answer":["Ans1"]
                  },
                  {
-                    "Q.no":19,
+                    "Qno":19,
                     "Qtype" :1,
                     "Q":[" ‘Vacant’ is related to ‘Empty’ in the same way as ‘Crowd’ is related to ‘________’. \n"],
                     "Ans":[
@@ -390,7 +390,7 @@
                     "Correct_Answer":["Ans1"]
                  },
                  {
-                    "Q.no":20,
+                    "Qno":20,
                     "Qtype" :1,
                     "Q":["Select the option that is related to the fifth term in the same way as the second term is related to the first term and the fourth \n term is related to the third term.\n READER : ERZWRE :: SERIAL : ESIRLA :: JINGLE : ?\n"],
                     "Ans":[
@@ -410,7 +410,7 @@
                     "Correct_Answer":["Ans4"]
                  },
                  {
-                    "Q.no":21,
+                    "Qno":21,
                     "Qtype" :1,
                     "Q":[" What is the number of triangles in the following figure?\n","extracted_images_questions/page4_General_Intelligence_and_Reasoning_Q21.png"],
                     "Ans":[
@@ -430,7 +430,7 @@
                     "Correct_Answer":["Ans2"]
                  },
                  {
-                    "Q.no":22,
+                    "Qno":22,
                     "Qtype" :1,
                     "Q":["Select the option figure that will replace the question mark (?) in the figure given below to complete the pattern.\n","extracted_images_questions/page5_General_Intelligence_and_Reasoning_Q22.png"],
                     "Ans":[
@@ -450,7 +450,7 @@
                     "Correct_Answer":["Ans1"]
                  },
                  {
-                    "Q.no":23,
+                    "Qno":23,
                     "Qtype" :1,
                     "Q":["Select the option that is related to the third figure in the same way as the second figure is related to the first figure. \n Follow the analogy-\n Figure 1 : Figure 2 :: Figure 3 : ?\n","extracted_questions_images/page5_General_Intelligence_and_Reasoning_Q23.png"],
                     "Ans":[
@@ -470,7 +470,7 @@
                     "Correct_Answer":["Ans2"]
                  },
                  {
-                    "Q.no":24,
+                    "Qno":24,
                     "Qtype" :1,
                     "Q":[" What will come in place of the question mark (?) in the following equation, if ‘×’ is replaced by ‘÷’, ‘÷’ is replaced by ‘+’, ‘+’ is \n replaced by ‘×’ and ‘−’ remains unchanged?\n 42 × 3 ÷ 4 + 9 − 17 = ? \n"],
                     "Ans":[
@@ -490,7 +490,7 @@
                     "Correct_Answer":["Ans2"]
                  },
                  {
-                    "Q.no":25,
+                    "Qno":25,
                     "Qtype" :1,
                     "Q":[" 16 is related to 30 following a certain logic. Following the same logic, 81 is related to 110. To which of the following is 49 \n related, following the same logic? (NOTE : Operations should be performed on the whole numbers, without breaking down \n the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be \n performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) \n"],
                     "Ans":[
@@ -577,7 +577,7 @@
                     "Correct_Answer":["Ans1"]
                 },
                 {
-                    "Q.no":4,
+                    "Qno":4,
                     "Qtype" :1,
                     "Q":[" Which of the following Articles deals with the composition of the Rajya Sabha? \n"],
                     "Ans":[
@@ -597,7 +597,7 @@
                     "Correct_Answer":["Ans2"]
                 },
             {
-                "Q.no":5,
+                "Qno":5,
                 "Qtype" :1,
                 "Q":["The birth anniversary of Mahatma Gandhi is celebrated as the national festival of India. In which of the following years was \n Gandhi ji born? \n"],
                 "Ans":[
@@ -617,7 +617,7 @@
                 "Correct_Answer":["Ans2"]
             },
             {
-                "Q.no":6,
+                "Qno":6,
                 "Qtype" :1,
                 "Q":["What kind of phyllotaxy was examined in the Guava plant? \n"],
                 "Ans":[
@@ -637,7 +637,7 @@
                 "Correct_Answer":["Ans4"]
             },
             {
-                "Q.no":7,
+                "Qno":7,
                 "Qtype" :1,
                 "Q":["The Nandi Award for Best Male Playback Singer was instituted by which state in the year 1977? \n"],
                 "Ans":[
@@ -657,7 +657,7 @@
                 "Correct_Answer":["Ans2"]
             },
             {
-                "Q.no":8,
+                "Qno":8,
                 "Qtype" :1,
                 "Q":[" Indian Olympic Association was established in which of the following years? \n"],
                 "Ans":[
@@ -677,7 +677,7 @@
                 "Correct_Answer":["Ans1"]
             },
             {
-                "Q.no":9,
+                "Qno":9,
                 "Qtype" :1,
                 "Q":["Which of the following is a public sector industry?\n"],
                 "Ans":[
@@ -697,7 +697,7 @@
                 "Correct_Answer":["Ans1"]
             },
             {
-                "Q.no":10,
+                "Qno":10,
                 "Qtype" :1,
                 "Q":[" Which of following is NOT a device of parliamentary proceedings? \n"],
                 "Ans":[
@@ -717,7 +717,7 @@
                 "Correct_Answer":["Ans4"]
             },
             {
-                "Q.no":11,
+                "Qno":11,
                 "Qtype" :1,
                 "Q":[ "Which of the following rivers marks the eastern-most boundary of the Himalayas? \n"],
                 "Ans":[
@@ -737,7 +737,7 @@
                 "Correct_Answer":["Ans4"]
             },
             {
-                "Q.no":12,
+                "Qno":12,
                 "Qtype" :1,
                 "Q":["What is the empirically fitted relationship between the rate of change of money, wage, and rate of unemployment known as? \n"],
                 "Ans":[
@@ -757,7 +757,7 @@
                 "Correct_Answer":["Ans4"]
             },
             {
-                "Q.no":13,
+                "Qno":13,
                 "Qtype" :1,
                 "Q":[" Which of the following is India’s national academy of dance? \n"],
                 "Ans":[
@@ -777,7 +777,7 @@
                 "Correct_Answer":["Ans4"]
            },
            {
-            "Q.no":14,
+            "Qno":14,
             "Qtype" :1,
             "Q":[" Padma Bhushan awardee, Ustad Sabri Khan played which of the following musical instruments? \n"],
             "Ans":[
@@ -797,7 +797,7 @@
             "Correct_Answer":["Ans4"]
            },
            {
-            "Q.no":15,
+            "Qno":15,
             "Qtype" :1,
             "Q":["Transition elements are the elements that are found in Groups 3-12 of the modern periodic table, that constitute the _____. \n"],
             "Ans":[
@@ -817,7 +817,7 @@
             "Correct_Answer":["Ans1"]
            },
            {
-            "Q.no":16,
+            "Qno":16,
             "Qtype" :1,
             "Q":["A small object is placed on the focus on the left side of a convex lens. Where will be the image formed? \n "],
             "Ans":[
@@ -837,7 +837,7 @@
             "Correct_Answer": ["Ans3"]
            },
            {
-            "Q.no":17,
+            "Qno":17,
             "Qtype" :1,
             "Q":[" One of the greatest of Chola ruler Rajaraja I ruled from 985 AD to ______. \n"],
             "Ans":[
@@ -857,7 +857,7 @@
             "Correct_Answer":["Ans3"]
            },
            {
-            "Q.no":18,
+            "Qno":18,
             "Qtype" :1,
             "Q":["Who asked James Rennel to prepare the map of Hindustan? \n"],
             "Ans":[
@@ -877,7 +877,7 @@
             "Correct_Answer":["Ans4"]
            },
            {
-            "Q.no":19,
+            "Qno":19,
             "Qtype" :1,
             "Q":[" Who among the following is appointed as the new Chairman of Pension Fund Regulatory and Development Authority (PFRDA) in March 2023? \n"],
             "Ans":[
@@ -897,7 +897,7 @@
             "Correct_Answer":["Ans4"]
            },
            {
-            "Q.no":20,
+            "Qno":20,
             "Qtype" :1,
             "Q": ["Indian National Army was formed in which of the following countries? \n"],
             "Ans":[
@@ -917,7 +917,7 @@
             "Correct_Answer":["Ans1"]
            },
            {
-            "Q.no":21,
+            "Qno":21,
             "Qtype" :1,
             "Q":["Match the following neighbouring countries with their official languages correctly \n","extracted_images_questions/page7_ General Awareness_Q21.png"],
             "Ans":[
@@ -937,7 +937,7 @@
             "Correct_Answer":["Ans2"]
            },
            {
-            "Q.no":22,
+            "Qno":22,
             "Qtype" :1,
             "Q":[" Which Article in the fundamental duty applies, when a construction worker takes his 8-year son to the site rather than \n sending him to school? \n"],
             "Ans":[
@@ -957,7 +957,7 @@
             "Correct_Answer":["Ans2"]
            },
            {
-            "Q.no":23,
+            "Qno":23,
             "Qtype" :1,
             "Q":["Exfoliation is a form of _________. \n"],
             "Ans":[
@@ -977,7 +977,7 @@
             "Correct_Answer":["Ans1"]
            },
            {
-            "Q.no":24,
+            "Qno":24,
             "Qtype" :1,
             "Q":[" Which Bill was passed by the Parliament, in July 2021, to help in the availability of working capital for the micro, small and \n medium enterprises sector? \n"],
             "Ans":[
@@ -997,7 +997,7 @@
             "Correct_Answer":["Ans3"]
            },
            {
-            "Q.no":25,
+            "Qno":25,
             "Qtype" :1,
             "Q":["Identify the structural formula for magnesium hydroxide. \n"],
             "Ans":[
